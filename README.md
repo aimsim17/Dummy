@@ -4,7 +4,6 @@
 <h1 style="page-break-before:always; "><b>Agenda</b></h1>
 <ul>
 <li>Purpose for these slides </li>
-  ![](02 Purpose.JPG)
 <li>Certificates and Testimony</li>
 <li>Before we begin…</li>
 <li>Two Broad Types of Machine Learning</li>
@@ -17,6 +16,7 @@
 <li>Others (e.g. Public Info)</li>
 </ul>
 <h1 style="page-break-before:always; "><b>Purpose of these slides</b></h1>
+![]()  
 <h1 style="page-break-before:always; "><b>Certificates - Business Courses</b></h1> 
 <h1 style="page-break-before:always; "><b>Certificates - Machine Learning Course</b></h1>
 <h1 style="page-break-before:always; "><b>Certificates - Python Data Structures, Algorithm and Interviews, Web Development BootCamp 2021</b></h1>    
