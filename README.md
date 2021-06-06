@@ -1,6 +1,6 @@
 </head>
 <body>
-<h1><b>For Rommel Sim Appeal for SUSS - MACHINE LEARNING</b></h1>
+<h1><b>For Rommel Sim Appeal for SUSS - Business Analytics</b></h1>
 <h1 style="page-break-before:always; "><b>Agenda</b></h1>
 <ul>
 <li>Purpose for these slides </li>
