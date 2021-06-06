@@ -15,17 +15,15 @@
 <li>Machine Learning Cheat Sheet</li>
 <li>Others (e.g. Public Info)</li>
 </ul>
-<h1 style="page-break-before:always; "><b>Certificates – Machine Learning Course</b></h1>
-<ul>
-<li>Data Pre-processing</li>
-<li>Regression, Classification, Clustering</li>
-<li>Reinforced Learning</li>
-<li>Nature Language</li>
-<li>Deep Learning, Neural Network, PCA</li>
-<li>Data visualisation</li>
-</ul>
-<h1 style="page-break-before:always; "><b>Certificates – Python Data Structure, Algorithm and Interviews, Web Development Bootcamp 2021</b></h1>
-<h1 style="page-break-before:always; "><b>Classification Report</b></h1>
+<h1 style="page-break-before:always; "><b>Purpose of these slides</b></h1>
+<h1 style="page-break-before:always; "><b>Certificates - Business Courses</b></h1> 
+<h1 style="page-break-before:always; "><b>Certificates - Machine Learning Course</b></h1>
+<h1 style="page-break-before:always; "><b>Certificates - Python Data Structures, Algorithm and Interviews, Web Development BootCamp 2021</b></h1>    
+<h1 style="page-break-before:always; "><b>Testimony</b></h1>
+<h1 style="page-break-before:always; "><b>Before We Begin...</b></h1>
+<h1 style="page-break-before:always; "><b>Two Broad Types of Machine Learning</b></h1>  
+  
+
 <ul>
 <li>Classification Report : measures the <i><b>quality</b></i> of predictions</li>
 <li>Accuracy rating</li>
