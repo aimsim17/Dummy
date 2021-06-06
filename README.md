@@ -4,6 +4,7 @@
 <h1 style="page-break-before:always; "><b>Agenda</b></h1>
 <ul>
 <li>Purpose for these slides </li>
+  ![](02 Purpose.JPG)
 <li>Certificates and Testimony</li>
 <li>Before we begin…</li>
 <li>Two Broad Types of Machine Learning</li>
