@@ -16,7 +16,7 @@
 <li>Others (e.g. Public Info)</li>
 </ul>
 <h1 style="page-break-before:always; "><b>Purpose of these slides</b></h1>
-![]()  
+![](02_Purpose.JPG)  
 <h1 style="page-break-before:always; "><b>Certificates - Business Courses</b></h1> 
 <h1 style="page-break-before:always; "><b>Certificates - Machine Learning Course</b></h1>
 <h1 style="page-break-before:always; "><b>Certificates - Python Data Structures, Algorithm and Interviews, Web Development BootCamp 2021</b></h1>    
